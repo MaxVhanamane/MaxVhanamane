@@ -21,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxvhanamane&show_icons=true&locale=en&layout=compact" alt="maxvhanamane" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxvhanamane&show_icons=true&locale=en" alt="maxvhanamane" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxvhanamane&" alt="maxvhanamane" /></p>
