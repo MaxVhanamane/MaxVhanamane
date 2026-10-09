@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxvhanamane&label=Profile%20views&color=0e75b6&style=flat" alt="maxvhanamane" /> </p>
 
 
-- 💬 Ask me about **Python,Javascript,ReactJs,NextJs.**
+- 💬 Ask me about **Javascript,ReactJs,NextJs.**
 
 - 📫 How to reach me **maxvhanamane@gmail.com**
 
