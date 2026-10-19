@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **maxvhanamane@gmail.com**
 
-- ⚡ Fun fact **I love debugging.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
